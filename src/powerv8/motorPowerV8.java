@@ -7,7 +7,6 @@ public class motorPowerV8 {
         
         Carro car = new Carro();
         Utilitarios uti = new Utilitarios();
-        //Moto moto = new Moto();
         TipoBD tipo = new TipoBD();
         int opc,ano2;
         float total;
